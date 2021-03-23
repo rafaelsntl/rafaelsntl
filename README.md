@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Rafael Santos.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/)](https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 
  - 📚 Currently trying to improve my skills in **Python** and **C++**
