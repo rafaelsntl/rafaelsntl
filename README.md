@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rafael Santos.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/)](https://www.linkedin.com/in/jrmarcelo/)
 
- - 📚 Trying to improve my skills in **Python** and **C++**
+ - 📚 Currently trying to improve my skills in **Python** and **C++**
 <!--
 **rafaelsntl/rafaelsntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
