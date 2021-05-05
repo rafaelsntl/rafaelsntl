@@ -3,9 +3,10 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 
- - 📚 Currently trying to improve my skills in **Python** and **C++**
 <!--
 **rafaelsntl/rafaelsntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ - 📚 Currently trying to improve my skills in **Python** and **C++**
 
 Here are some ideas to get you started:
 
