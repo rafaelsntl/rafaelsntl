@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Rafael Santos.
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/)](https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/)
 
 <div align="center">
 <a href="https://github.com/rafaelsntl" target="_blank">
