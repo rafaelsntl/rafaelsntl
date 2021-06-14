@@ -15,7 +15,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 
 <!--
-**rafaelsntl/rafaelsntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  - 📚 Currently trying to improve my skills in **Python** and **C++**
 
