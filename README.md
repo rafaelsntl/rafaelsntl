@@ -17,6 +17,7 @@
 <!--
 
 Here are some ideas to get you started:
+
 - 📚 Currently trying to improve my skills in **Python** and **C++**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
