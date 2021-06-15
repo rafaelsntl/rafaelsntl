@@ -1,10 +1,20 @@
 ### Hi there 👋, I'm Rafael Santos.
 
-<div>
-  <a href="https://github.com/rafaelsntl">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsntl&layout=compact&langs_count=16&theme=algolia"/>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael&layout=compact&theme=algolia"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia"
+    />
+  </a>
+</p>
 
 ## Languages and Tools
   
