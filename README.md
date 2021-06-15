@@ -7,6 +7,12 @@
 <a href="https://instagram.com/rafaelsntl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
 
+ <div>
+  <a href="https://github.com/rafaelsntl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsntl&layout=compact&theme=gotham"/>
+<div>
+  
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
