@@ -5,7 +5,7 @@
   <img 
    align="center" 
    height="180"
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rafaelsntl&show_icons=true&include_all_commits=true&theme=material-palenight"  
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rafaelsntl&show_icons=true&include_all_commits=true&theme=algolia"  
    alt="Rafael's github stats" />
 </a>
 
