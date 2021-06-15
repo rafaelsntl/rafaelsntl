@@ -1,15 +1,14 @@
 ### Hi there 👋, I'm Rafael Santos.
 
- </a>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="180"
       src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia"
     />
   </a>
-</p>
-
+ 
 ## Languages and Tools
   
 <p align="center">
