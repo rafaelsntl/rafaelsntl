@@ -10,8 +10,6 @@
  <div>
   <a href="https://github.com/rafaelsntl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsntl&layout=compact&theme=gotham"/>
-<div>
   
 ## Languages and Tools  
 <div align="center">  
@@ -21,6 +19,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 
 <!--
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsntl&layout=compact&theme=gotham"/>
+<div>
 
 Here are some ideas to get you started:
 
