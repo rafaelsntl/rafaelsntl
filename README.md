@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Rafael Santos.
 
 <p align="center">
-  <div>
   <a href="https://github.com/rafaelsntl">
   <img 
   align="center"  
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </div>
-</p>
+  src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+  alt="Rafael's github stats" />
+</a>
   
     
 ## Languages and Tools
