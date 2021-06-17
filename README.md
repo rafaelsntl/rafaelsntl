@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rafael Santos.
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/rafaelsntl/github-readme-stats">
     <img 
     align="center" 
     height="180"
