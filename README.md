@@ -1,15 +1,14 @@
 ### Hi there 👋, I'm Rafael Santos.
 
 <p align="center">
-  <a href="https://github.com/rafaelsntl/github-readme-stats">
-    <img 
-    align="center" 
-    height="180"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rafaelsntl&show_icons=true&include_all_commits=true&theme=algolia"  
-   alt="Rafael's github stats" />
-</a>
-
- 
+  <div>
+  <a href="https://github.com/rafaelsntl">
+  <img 
+  align="center"  
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=rafaelsntl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+  
 ## Languages and Tools
 <p align="center">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
