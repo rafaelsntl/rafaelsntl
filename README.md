@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rafael Santos.
+### Olá 👋, Eu sou Rafael Santos.
 
 <p align="center">
   <a href="https://github.com/rafaelsntl">
@@ -10,7 +10,7 @@
 </a>
   
     
-## Languages and Tools
+## Linguagens e Ferramentas
 <p align="center">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
-## Contact 
+## Contato 
 <p align="center">
  </div>
   <a href="https://www.linkedin.com/in/rafael-dos-santos-lima-5455031ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
